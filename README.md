@@ -64,7 +64,7 @@ Helpful for tuning steering control and drive performance
 
 CAD Files
 
-CAD files are included in the ```/cad``` directory.
+CAD files are found on OnShape at this link ```https://cad.onshape.com/documents/9c818541e2d90d03905fff6a/w/c1461b4ce5be43414c71195b/e/e1d23d7083b80ccbfaad2e29?renderMode=0&uiState=69f3c060d62beea003e24e4a```
 
 Notes & Limitations
 - 2-module swerve is not fully holonomic like 4-module systems
