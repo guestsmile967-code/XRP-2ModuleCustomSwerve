@@ -28,7 +28,8 @@ Designed specifically for XRP constraints
 
 Hardware Setup
 
-- Custom XRP Chassis and various parts
+- Custom XRP Chassis and various parts from CAD
+- M3 and M4 hardware
 - 4x XRP Hobby Motors
 - 2x servos (for azimuth control)
 - USB camera (for vision via PhotonVision)
